@@ -1,30 +1,30 @@
 # Room-327
 
-功能：创建/加入局域网聊天室，可以在聊天室的大厅中发送群体信息，或跟聊天室的任意其他用户私聊。
+機能：チャットルームの作成、参加。チャットルームの全員とオープンチャット、任意のメンバーとDM可能。
 
-•应用框架：**Electron** v28.2.0
+• AplicationFramework：**Electron** v28.2.0
 
-•前端框架：**Vue** v3.4.15
+• FrontendFramework：**Vue** v3.4.15
 
-•项目脚手架：**Vite** v5.0.12 
+• **Vite** v5.0.12 
 
-•通信协议：**Websocket** v8.16.0
+• **Websocket** v8.16.0
 
-## 项目初始化
+## 初期化
 
-### 安装
+### install
 
 ```bash
 $ npm install
 ```
 
-### 运行
+### run
 
 ```bash
 $ npm run dev
 ```
 
-### 构建
+### build
 
 ```bash
 # For windows
